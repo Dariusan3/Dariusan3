@@ -7,7 +7,7 @@
 
 🚀 I'm especially interested in full-stack development combined with AI, where I can blend creative interfaces with smart, data-driven functionality.
 - 🌍 Based in Timișoara, Romania 🇷🇴  
-- 🖥️ Check out my portfolio [here]  
+- 🖥️ Check out my portfolio https://osadici-darius-portofolio.netlify.app/ 
 - ✉️ Reach me at dariusosadici@gmail.com  
 - 🚀 Currently working on a smart **ReturnBox** system for automating product returns  
 - 🧠 Always learning and expanding my web development skills 
