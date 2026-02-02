@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Osadici Darius
 <h3> Junior Full-Stack Web Engineer | AI Developer </h3>
 
-🎓 I'm a 3rd-year Computer Science student at the Polytechnic University of Timișoara. I'm a curious and passionate learner, always exploring new technologies and skills that drive personal and professional growth.
+🎓 I'm a 4rd-year Computer Science student at the Polytechnic University of Timișoara. I'm a curious and passionate learner, always exploring new technologies and skills that drive personal and professional growth.
 
 💡 I enjoy collaborating with others, exchanging ideas, and turning concepts into real, working projects. Programming is more than a skill for me—it's a passion. I find great satisfaction in building something from scratch and seeing it come to life.
 
